@@ -1,7 +1,8 @@
 # Scraping-for-Douban
 Scraping for douban technology interest group 
 
-Scraping test in the web https://www.douban.com/group/explore/tech；
+Scraping test in the web https://www.douban.com/group/explore/tech
+
 This just for learning task,so you shouldn't use this code to scrapy
 the web page frequently.
 
